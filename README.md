@@ -1,4 +1,4 @@
-### Ola! eu sou o André 👋
+### Ola! eu sou o [André](https://me.junqueiradev.com/) 👋
 ##### Sou formado em Ciência da computação e já desenvolvo software a cerca de 10 anos. Já desenvolvi em várias linguagens de programação, porém hoje estou mais focado em desenvolvimento mobile.<br/>Sou apaixonado por tecnologia e programação !
 [💻 Mais sobre mim](https://me.junqueiradev.com/)
 </br>
