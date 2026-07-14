@@ -1,5 +1,6 @@
 ### Ola! eu sou o André 👋
 ##### Sou formado em Ciência da computação e já desenvolvo software a cerca de 10 anos. Já desenvolvi em várias linguagens de programação, porém hoje estou mais focado em desenvolvimento mobile.<br/>Sou apaixonado por tecnologia e programação !
+[Meu Site](https://me.junqueiradev.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreluisjunqueira/)
 <br/>
 <br/>
